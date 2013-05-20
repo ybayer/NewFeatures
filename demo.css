@@ -1,0 +1,13 @@
+body {font-family: sans-serif;}
+
+#header {font-size:30px; background-color:#9CC;}
+
+table
+{
+border-collapse:collapse;
+}
+
+table,th, td
+{
+border: 1px solid black;
+}
