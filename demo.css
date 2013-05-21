@@ -1,6 +1,7 @@
-body {font-family: sans-serif;}
+body {font-family: Verdana, Geneva, Meiryo, sans-serif;}
+h3 {font-family: Verdana, Geneva, Meiryo, sans-serif;}
 
-#header {font-size:30px; background-color:#9CC;}
+#header {font-size:25px; background-color:#9CC;}
 
 table
 {
